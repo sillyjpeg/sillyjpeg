@@ -1,0 +1,23 @@
+baseURL = '//sillyjpeg.com'
+languageCode = 'en-us'
+title = 'silly jpeg'
+theme = "bettermotherfuckinghugowebsite"
+
+
+
+
+
+
+
+
+copyright = "© 2022 — Brian Chen — All rights reserved."
+ [[menu.footer]]
+  url = "https://github.com/ihasdapie/bettermotherfuckinghugowebsite/"
+  name = "Theme"
+  weight = 1
+
+ [[menu.footer]]
+   url = "https://github.com/ihasdapie/sillyjpeg"
+   name = "Source"
+   weight = 1
+
